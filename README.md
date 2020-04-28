@@ -18,7 +18,7 @@ R codes: [https://github.com/synaptic-neurolab/CAIRcomp_R](https://github.com/sy
 
 Violin plots of each evolutionary node and their corresponding mean comparison tests of the brunner-munzel:
 
-<img src="img/violin_plots.png" height="300"> 
+<img src="img/violin_plots.png" height="400"> 
 
 
 ## Usage
