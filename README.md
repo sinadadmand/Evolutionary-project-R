@@ -23,7 +23,7 @@ Violin plots of each evolutionary node and their corresponding mean comparison t
 
 ## Usage
 
-#### Run CAIRcomp from R
+#### Run CAIRcomp.R from R
 
 TO run the comparisons, import the "Complete proteome CAIRs.csv" file (output of the runCAIR from Python) in the following directory: ~/Supplementary/Proteomes CAIR/.
 
